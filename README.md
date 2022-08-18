@@ -18,7 +18,7 @@ Entrar a la carpeta clonada
   cd Programacion-En-C
 ```
 
-Navegacion en el repositorio clonado
+Navegación en el repositorio clonado
 
 ```bash
   ls
