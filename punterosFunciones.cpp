@@ -17,7 +17,7 @@ int main(void){
     int i = 4;
     //PASO POR VALOR, MODIFICA LA VARIABLE SOLO DENTRO DE LA FUNCION
     incrementoV(i);
-    cout<<"Valor de la varible en funcion: "<<i<<endl;
+    cout<<"Valor de la variable en funcion: "<<i<<endl;
     //PASO POR REFERENCIA, MODIFICA LA VARIABLE EN GENERAL, DEJANDOLE EL VALOR ASIGNADO
     incrementoR(i);
     cout<<"Valor de la variable en funcion: "<<i<<endl;
